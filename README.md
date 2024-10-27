@@ -11,7 +11,7 @@ int mian() {
 ```
 I love china
 ```
-## I'm trying to do as everyone here do
+## I'm trying to do like everyone here
 ```
 thank you
 ```
